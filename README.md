@@ -1,7 +1,8 @@
 # PSnake
 The game of snake - entirely within your own terminal.
 
-## Command to play
+## How to play
+Run this command in Powershell:
 ```
 iex (irm https://raw.githubusercontent.com/Cod3rQwerty/PSnake/main/snake.ps1)
 ```
